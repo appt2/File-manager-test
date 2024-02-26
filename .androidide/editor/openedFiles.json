@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/File manager/app/src/main/java/com/example/test4/Test.java",
+      "selection": {
+        "end": {
+          "column": 13,
+          "index": 259,
+          "line": 16
+        },
+        "start": {
+          "column": 13,
+          "index": 259,
+          "line": 16
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/File manager/app/src/main/java/com/example/test4/Test.java"
+}
