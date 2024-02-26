@@ -1,20 +1,35 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/File manager/app/src/main/java/com/example/test4/Test.java",
+      "file": "/storage/emulated/0/AndroidIDEProjects/File manager/gradle/wrapper/gradle-wrapper.properties",
       "selection": {
         "end": {
-          "column": 13,
-          "index": 259,
-          "line": 16
+          "column": 69,
+          "index": 134,
+          "line": 2
         },
         "start": {
-          "column": 13,
-          "index": 259,
-          "line": 16
+          "column": 69,
+          "index": 134,
+          "line": 2
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/File manager/build.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/File manager/app/src/main/java/com/example/test4/Test.java"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/File manager/gradle/wrapper/gradle-wrapper.properties"
 }
